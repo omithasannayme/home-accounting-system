@@ -6,6 +6,21 @@ The system allows multiple families to create accounts, manage family members, a
 
 -----------------------------------------------------------------------------
 
+# Features
+
+## Family Management
+
+- Multiple family accounts
+- Family owner becomes administrator
+- Admin can add family members
+- Role-based access control
+
+Example:
+
+Family Account
+
+-----------------------------------------------------------------------------
+
 ## 🚀 Technology Stack
 
 ### Frontend
@@ -31,16 +46,3 @@ Features:
 - Expense analysis
 
 ----------------------------------------------------------------------------
-
-# Features
-
-## Family Management
-
-- Multiple family accounts
-- Family owner becomes administrator
-- Admin can add family members
-- Role-based access control
-
-Example:
-
-Family Account
