@@ -21,7 +21,7 @@ Family Account
 
 -----------------------------------------------------------------------------
 
-## 🚀 Technology Stack
+## Technology Stack
 
 ### Frontend
 
